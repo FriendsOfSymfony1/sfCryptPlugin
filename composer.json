@@ -1,0 +1,22 @@
+{
+  "name": "fos1/sf-crypt-plugin",
+  "type": "symfony1-plugin",
+  "description": "An abstraction for the mcrypt library for Symfony1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dustin Whittle",
+      "email": "dustin.whittle@symfony-project.com",
+      "role": "Creator"
+    },
+    {
+      "name": "Emanuele Panzeri",
+      "email": "thepanz@gmail.com",
+      "role": "Contributor"
+    }
+  ],
+  "require": {
+    "ext-mcrypt": "*",
+    "composer/installers": "~1.0"
+  }
+}
