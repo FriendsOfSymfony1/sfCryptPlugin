@@ -1,6 +1,7 @@
 # sfCryptPlugin
 
 The `sfCryptPlugin` provides abstraction for the mcrypt library.
+The PHP "mcrypt" extension is required.
 
 ## Installation
 
